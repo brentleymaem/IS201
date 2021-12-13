@@ -1,0 +1,31 @@
+body{
+    background-color: ivory;
+}
+
+.link{
+    color: rgb(143, 56, 56);
+    text-decoration: underline;
+}
+
+.link:hover{
+    color: tan;
+}
+
+.center{
+    text-align: center;
+    color: rgb(63, 28, 28);
+}
+
+.funfont{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(63, 28, 28);
+}
+
+h4{
+    color: rgb(63, 28, 28);
+    text-align: center;
+}
+
+.social{
+    float: left;
+    }
